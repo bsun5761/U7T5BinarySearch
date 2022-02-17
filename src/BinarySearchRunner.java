@@ -1,6 +1,6 @@
 public class BinarySearchRunner
 {
-  public static void main(String[] args)
+  public static void main(String[] args)//
   {
     // --- PART A: RUN AND STUDY ME! ---
     // Look at the code for binarySearch to see how it works!

@@ -52,7 +52,7 @@ public class BinarySearch
     
     while (left <= right)
     {
-       numChecks++;
+       numChecks++;//
        
        int middle = (left + right) / 2;
        System.out.println("Checking value at index " + middle + " (value = " + elements[middle] + ")");

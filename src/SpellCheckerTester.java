@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class SpellCheckerTester
 {
-  public static void main(String[] args)
+  public static void main(String[] args)//
   {
     SpellChecker checker = new SpellChecker();
     System.out.println("----------------------------- SPELL CHECKER -------------------------------");

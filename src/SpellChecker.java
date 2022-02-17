@@ -45,11 +45,11 @@ public class SpellChecker
   }
   
   /** This uses BINARY search to find a word in the dictionary ArrayList and also
-    * prints out the number of words checked.
+    * prints out the number of words checked.//
     *
     * Instead of returning the index the word is found, it simply returns TRUE
     * if the word is found, and FALSE otherwise.
-  */
+  *///
   public boolean binarySpellCheck(String word)
   {
     /* IMPLEMENT ME! */
